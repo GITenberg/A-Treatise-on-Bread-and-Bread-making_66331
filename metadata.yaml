@@ -1,11 +1,16 @@
 _repo: A-Treatise-on-Bread-and-Bread-making_66331
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66331-h/images/cover.jpg
 creator:
   author:
     agent_name: Graham, Sylvester
     gutenberg_agent_id: '53752'
     url: http://www.gutenberg.org/2009/agents/53752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66331#A-Treatise-on-Bread-and-Bread-making
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66331'
